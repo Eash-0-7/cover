@@ -37,6 +37,7 @@ Publish the website in the LocalHost.
  <title>Book Cover</title>
 <style>
 body, html {
+ 
  margin: 0;
  padding: 0;
  height: 100%;
@@ -85,12 +86,12 @@ body, html {
 </style>
 </head>
 <body>
- <div class="cover">
- <img src="back.avif" class="bg-img" alt="Background">
- <div class="content">
- <h1 class="title">The Art of Django</h1>
- <h3 class="subtitle">Mastering Web Development</h3>
- <div class="author">by Eashwar</div>
+ <divclass="cover">
+ <imgsrc="back.avif" class="bg-img" alt="Background">
+ <divclass="content">
+ <h1class="title">The Art of Django</h1>
+ <h3class="subtitle">Mastering Web Development</h3>
+ <divclass="author">by Eashwar</div>
  </div>
  </div>
 </body>
@@ -98,6 +99,7 @@ body, html {
 
 ## OUTPUT:
 
+<img width="1704" height="913" alt="book" src="https://github.com/user-attachments/assets/d39ec950-a484-419c-9dee-1fd4b15de72f" />
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
